@@ -17,7 +17,7 @@ public class Drive {
 		String[] programArgs =
 				new GenericOptionsParser(conf, args).getRemainingArgs();
 		if (programArgs.length != 2) {
-			System.err.println("Usage: MaxTemp <in> <out>");
+			System.err.println("Usage: Word Count <in> <out>");
 			System.exit(2);
 		}
 		
