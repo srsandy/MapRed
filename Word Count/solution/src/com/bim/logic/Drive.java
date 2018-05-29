@@ -21,7 +21,7 @@ public class Drive {
 			System.exit(2);
 		}
 		
-		Job job = new Job(conf, "Monthly Max Temp");
+		Job job = new Job(conf, "Word Count");
 		job.setJarByClass(Drive.class);
 		job.setMapperClass(MapTemp.class);
 		job.setCombinerClass(RedTemp.class);
