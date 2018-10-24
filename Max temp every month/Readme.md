@@ -2,11 +2,8 @@ input.txt File contains temperature information for Sumner County Tennessee for 
 
 
 Date - Position 18 for 8 
-
 Year - Position 18 for 4.
-
 Month - Position 22 for 2.
-
 Day - Position 24 for 2.
 
 
